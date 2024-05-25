@@ -1,0 +1,8 @@
+Model Information:
+* title:	Godzilla Minus One
+* source:	https://sketchfab.com/3d-models/godzilla-minus-one-ccaf341a3e734263a88cecb5c49eac0e
+* author:	ArachnoBoy (https://sketchfab.com/vang807)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
